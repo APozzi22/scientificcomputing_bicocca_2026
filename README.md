@@ -81,7 +81,7 @@ Here is the class schedule. There are 9 slots here, but we'll only need 8 of the
 
 <!-- CALENDAR:START -->
 1. **2026, Nov 24, 10:30am - 12:30pm**. U1-Lab111.
-2. **2026, Nov 25, 10:30am - 12:30pm**. U1-Lab111.
+2. **2026, Nov 25, 11:30am - 01:30pm**. Room ??.
 3. **2026, Nov 26, 10:30am - 12:30pm**. U6-32.
 4. **2026, Nov 27, 10:30am - 12:30pm**. U1-12.
 5. **2026, Nov 30, 10:30am - 12:30pm**. U2-03.
