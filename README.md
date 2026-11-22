@@ -8,6 +8,19 @@ University of Milano-Bicocca, 2025-2027.
 
 The python programming language and its library ecosystem are essential tools in modern science. This class provides an advanced overview of python and its main functionalities, focusing in particular on its applications to computational physics. Targeted topics include: array vectorization with numpy, pretty plotting with matplotlib, scientific recipes with scipy, just-in-time compilation with numba, module packaging, and unit testing. I will also introduce other essential computational tools, notably Mathematica for symbolic manipulation and git for version control. The format will be highly interactive and tailored to the research interests of the participants.
 
+## Disclaimer: before we even start...
+
+*Students*: My professor is so old-fashioned! Why should I bother learning how to code? We're not coding ourselves anymore. Things are automated now. If I want to make a plot, I can describe what I want to GPT/Claude/Gemini in plain English, and I'll get the plot I want. I don't need to know the programming language underneath.
+
+Let me be straight: this is very true. Much like I don't know how the chip in my laptop moves electrons around (but I trust that it does calculations correctly), we're almost at the point where we don't need to know how to code (and we can almost trust that the final plot is right).
+
+*But*, to solve your problem with software, you do need to know what software can or cannot do. This is why I still teach coding. For instance, I don't remember how to divide big numbers by hand, so I use a calculator (and that's fine!). But I've done divisions before, and I understand what the result is, what a remainder is, etc. Similarly, an AI can take care of the coding syntax (and that's fine!) but I do want to understand what it spits out. 
+
+The point of a coding class in 2026 is to get you to understand and experience what software can or cannot do for you. The exercises in this class are designed with this in mind. Of course, an AI can do them (probably better than you and me), but that's not the goal here.
+
+Tomorrow, you'll generate software with prompts (that's fine!), but today write your own software (perhaps for the last time!).
+
+
 ## Lectures
 
 1. [**Introduction: python**](lectures/L01_python.ipynb). Why python. Basics. Datatypes. Control flow. Functions. Classes. Modules. Exceptions. File I/O. 
@@ -68,7 +81,7 @@ Here is the class schedule. There are 9 slots here, but we'll only need 8 of the
 
 <!-- CALENDAR:START -->
 1. **2026, Nov 24, 10:30am - 12:30pm**. U1-Lab111.
-2. **2026, Nov 25, 10:30am - 12:30pm**. U1-Lab111.
+2. **2026, Nov 25, 11:30am - 01:30pm**. Room ??.
 3. **2026, Nov 26, 10:30am - 12:30pm**. U6-32.
 4. **2026, Nov 27, 10:30am - 12:30pm**. U1-12.
 5. **2026, Nov 30, 10:30am - 12:30pm**. U2-03.
