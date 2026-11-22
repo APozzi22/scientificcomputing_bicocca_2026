@@ -8,7 +8,7 @@ University of Milano-Bicocca, 2025-2027.
 
 The python programming language and its library ecosystem are essential tools in modern science. This class provides an advanced overview of python and its main functionalities, focusing in particular on its applications to computational physics. Targeted topics include: array vectorization with numpy, pretty plotting with matplotlib, scientific recipes with scipy, just-in-time compilation with numba, module packaging, and unit testing. I will also introduce other essential computational tools, notably Mathematica for symbolic manipulation and git for version control. The format will be highly interactive and tailored to the research interests of the participants.
 
-## Before we even start...
+## Disclaimer: before we even start...
 
 *Students*: You're so old-fashioned! Why should I bother learning how to code? We're not coding ourselves anymore. Things are getting more and more automated. If I want to make a plot, I can describe what I want to GPT/Claude/Gemini in plain English, and I'll get the plot I want. I don't need to know the programming language underneath.
 
